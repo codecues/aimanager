@@ -5,7 +5,9 @@
 ![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)
 ![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
-This blog is a dedicated space to share and document the latest tech tips, tricks, and insights I’ve gathered through hands-on experience and exploration. The purpose is simple: to empower tech enthusiasts, professionals, and learners with actionable knowledge that makes technology more accessible and practical.
+Sharing tech tips, tricks, and insights I’ve gained through hands-on experience and exploration. 
+The goal is simple: to empower tech enthusiasts, professionals, and learners with actionable knowledge that makes technology more accessible and practical. 
+After all, documenting is always a smart idea—don’t you agree?
 
 ## License
 
