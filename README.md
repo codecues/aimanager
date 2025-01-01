@@ -1,4 +1,3 @@
-##```ai-manager.in```
 ## [`ai-manager.in`](https://ai-manager.in)
 
 
