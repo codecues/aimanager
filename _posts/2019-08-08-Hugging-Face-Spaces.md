@@ -1,5 +1,5 @@
 ---
-title: Try your First ML App at Hugging Face
+title: Try your First ML App
 description: Models, Datasets & Spaces.
 author: tharif.m
 date: 2025-01-02 11:33:00 +0800
