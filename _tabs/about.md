@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-#Often Curious <br>
+#Often Curious
 
 Heyy Tharif.M  here, a tech enthusiast with over a decade of experience across diverse domains—EdTech, Retail POS, HRMS, XR, Asset Management, and the Creative Space. Over the years, I’ve realized the importance of jotting down my learnings, not just for self-reference but also to share with like-minded individuals.
 
