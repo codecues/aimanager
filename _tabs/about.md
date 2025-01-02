@@ -3,10 +3,11 @@
 icon: fas fa-info-circle
 order: 4
 ---
-#Often Curious
-With over a decade of experience spanning multiple domains—EdTech, Retail POS, HRMS, XR, Asset Management, and the Creative Space—the urge to document these learnings has become essential, if only for self-reference.
+#Often Curious <br>
 
-Having hosted and managed dozens of websites, this platform marks a new beginning. Welcome to AI-Manager.in: a space dedicated to sharing insights, tech tips, and productivity hacks inspired by the journey so far.
+Heyy Tharif.M  here, a tech enthusiast with over a decade of experience across diverse domains—EdTech, Retail POS, HRMS, XR, Asset Management, and the Creative Space. Over the years, I’ve realized the importance of jotting down my learnings, not just for self-reference but also to share with like-minded individuals.
+
+After hosting and managing dozens of websites, I’m excited to introduce AI-Manager.in—a space where I share insights, tech tips, and productivity hacks inspired by my journey.
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
