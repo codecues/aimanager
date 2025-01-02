@@ -1,5 +1,5 @@
 ---
-title: Github Actions & Running a Blog
+title: Github Actions & Deploying Blog
 description: >-
   Get started with Chirpy basics in this comprehensive overview.
   You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
@@ -14,9 +14,6 @@ media_subpath: '/posts/20180809'
 ## Creating a Site Repository
 
 When creating your site repository, you have two options depending on your needs:
-
-![image](https://github.com/user-attachments/assets/e9d0535d-63c8-43a5-9ddb-2dd878b1db67)
-
 
 ### Option 1. Using the Starter (Recommended)
 
@@ -121,11 +118,11 @@ Prepare the following:
 
 Next, configure the _Pages_ service:
 
-1. Go to your repository on GitHub. Select the _Settings_ tab, then click _Pages_ in the left navigation bar. In the **Source** section (under _Build and deployment_), select [**GitHub Actions**][pages-workflow-src] from the dropdown menu.  
-   ![Build source](pages-source-light.png){: .light .border .normal w='375' h='140' }
-   ![Build source](pages-source-dark.png){: .dark .normal w='375' h='140' }
+1. Go to your repository on GitHub. Select the _Settings_ tab, then click _Pages_ in the left navigation bar. In the **Source** section (under _Build and deployment_), select [**GitHub Actions**][pages-workflow-src] from the dropdown menu.
+    
+ ![image](https://github.com/user-attachments/assets/e9d0535d-63c8-43a5-9ddb-2dd878b1db67)
 
-2. Push any commits to GitHub to trigger the _Actions_ workflow. In the _Actions_ tab of your repository, you should see the workflow _Build and Deploy_ running. Once the build is complete and successful, the site will be deployed automatically.
+3. Push any commits to GitHub to trigger the _Actions_ workflow. In the _Actions_ tab of your repository, you should see the workflow _Build and Deploy_ running. Once the build is complete and successful, the site will be deployed automatically.
 
 You can now visit the URL provided by GitHub to access your site.
 
