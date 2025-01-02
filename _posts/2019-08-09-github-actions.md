@@ -15,6 +15,9 @@ media_subpath: '/posts/20180809'
 
 When creating your site repository, you have two options depending on your needs:
 
+![image](https://github.com/user-attachments/assets/e9d0535d-63c8-43a5-9ddb-2dd878b1db67)
+
+
 ### Option 1. Using the Starter (Recommended)
 
 This approach simplifies upgrades, isolates unnecessary files, and is perfect for users who want to focus on writing with minimal configuration.
