@@ -1,6 +1,6 @@
 ---
 title: Try your First ML App at Hugging Face
-description: Hosting your First ML App & More.
+description: Models, Datasets & Spaces.
 author: tharif.m
 date: 2025-01-02 11:33:00 +0800
 categories: [Blogging, Demo]
