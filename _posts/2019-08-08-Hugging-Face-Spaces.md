@@ -1,8 +1,8 @@
 ---
-title: Text and Typography
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+title: Try your First ML App at Hugging Face
+description: Hosting your First ML App & More.
 author: cotes
-date: 2019-08-08 11:33:00 +0800
+date: 2025-01-02 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
@@ -14,4 +14,13 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-Hugging Face is a leading platform in the AI space, offering tools and pre-trained models for natural language processing and beyond. One of its standout features is Spaces—a hosting solution that allows developers to showcase their machine learning applications in a web interface. Deploying an app in Spaces is straightforward: choose a framework like Gradio or Streamlit, build your app, and upload it to Hugging Face Spaces for an instant, interactive deployment.
+Hugging Face is a leading platform in the AI space, offering tools and pre-trained models for natural language processing and beyond. 
+
+One of its standout features is Spaces—a hosting solution that allows developers to showcase their machine learning applications in a web interface. 
+
+Deploying an app in Spaces is straightforward: choose a framework like Gradio or Streamlit, build your app, and upload it to Hugging Face Spaces for an instant, interactive deployment.
+
+![openAI](https://github.com/user-attachments/assets/1c23dbc5-9024-4ee4-9309-474f01c4b695)
+
+
+
