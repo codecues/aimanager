@@ -1,5 +1,5 @@
 ---
-title: The .htaccess file 
+title: Apache .htaccess  
 description: >-
   How htaccess help in setting configurations right
 author: tharif
