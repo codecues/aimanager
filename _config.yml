@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: 'ai-manager.in' # the main title
 
-tagline: Dev, Automation, Project Management, HCI & Random Self.Ref Tech Posts. # it will display as the subtitle
+tagline: Dev, Automation, Project Management, Human Computer Interaction & Random Self.Ref Tech Posts. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
