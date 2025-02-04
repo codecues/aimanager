@@ -9,7 +9,6 @@ tags: [getting started]
 pin: false
 media_subpath: '/posts/20180809'
 ---
-### How to Design a VR/AR Application.
 
 Designing a Virtual Reality (VR) or Augmented Reality (AR) application is no easy feat, 
 but it’s an incredibly rewarding journey when done correctly. 
