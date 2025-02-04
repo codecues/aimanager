@@ -9,10 +9,17 @@ tags: [getting started]
 pin: false
 media_subpath: '/posts/20180809'
 ---
-How to Design a VR/AR Application: A 5-Step Approach from a 5-Year Veteran
-Designing a Virtual Reality (VR) or Augmented Reality (AR) application is no easy feat, but it’s an incredibly rewarding journey when done correctly. With over five years of experience working on VR/AR projects, I’ve developed a streamlined process that ensures efficiency and quality. In this blog, I’ll walk you through the essential steps involved in creating a VR/AR application, from concept to testing.
+### How to Design a VR/AR Application.
+
+Designing a Virtual Reality (VR) or Augmented Reality (AR) application is no easy feat, 
+but it’s an incredibly rewarding journey when done correctly. 
+With experience working on VR/AR projects, I’ve developed a streamlined process that ensures efficiency and quality. 
+
+In this blog, I’ll walk you through the essential steps involved in creating a VR/AR application, 
+from concept to testing, underlining the role of Model Optimization.
 
 1. Start with the Foundation: List of 3D Objects, Environments, and Players
+
 Before diving into the development, it’s crucial to begin with the basics: a comprehensive list of the 3D objects, environments, and players. This will give you clarity on the assets required and help you identify what elements need to be created or sourced.
 
 3D Objects: Think about everything that will be present in your VR/AR world, from objects the player can interact with, to the static ones that help build the environment.
@@ -21,6 +28,7 @@ Players: Define the user’s role—how they will interact with the environment 
 This step sets the stage for every design and interaction you’ll include down the road.
 
 2. Develop a Clear Storyline
+
 A compelling storyline will keep your audience engaged and immersed. Whether it's a VR game, a training simulation, or an AR navigation app, the user needs a reason to interact with your world.
 
 Outline the Flow
