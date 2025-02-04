@@ -7,7 +7,7 @@ author: cotes
 date: 2025-01-01 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
-pin: true
+pin: false
 media_subpath: '/posts/20180809'
 ---
 
