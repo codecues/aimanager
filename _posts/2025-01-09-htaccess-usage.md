@@ -4,8 +4,8 @@ description: >-
   How htaccess help in setting configurations right
 author: tharif
 date: 2025-01-10 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: [Webserver, Tutorial]
+tags: [Apache, htaccess]
 pin: false
 media_subpath: '/posts/20180809'
 ---
