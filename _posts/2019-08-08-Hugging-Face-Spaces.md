@@ -5,7 +5,7 @@ author: tharif.m
 date: 2025-01-02 11:30:00 +0800
 categories: [AI/ML]
 tags: [AI/ML, HuggingFace]
-pin: true
+pin: false
 math: true
 mermaid: true
 ---
