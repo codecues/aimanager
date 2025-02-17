@@ -3,8 +3,8 @@ title: Try your First ML App
 description: Models, Datasets & Spaces.
 author: tharif.m
 date: 2025-01-02 11:30:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+categories: [AI/ML]
+tags: [AI/ML, HuggingFace]
 pin: true
 math: true
 mermaid: true
