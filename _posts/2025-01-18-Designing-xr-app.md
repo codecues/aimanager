@@ -4,8 +4,8 @@ description: >-
   Designing VR,AR or MR app from Scratch
 author: tharif
 date: 2025-01-18 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: [XR, Guide]
+tags: [VR, AR, MR, XR]
 pin: false
 media_subpath: '/posts/20180809'
 ---
