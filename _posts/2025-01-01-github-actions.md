@@ -5,8 +5,8 @@ description: >-
   You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
 author: cotes
 date: 2025-01-01 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: [GitHub, Tutorial]
+tags: [Github Actions]
 pin: false
 media_subpath: '/posts/20180809'
 ---
