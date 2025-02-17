@@ -1,134 +1,57 @@
 ---
-title: Key PMP Concepts
+title: Humanitys Last Exam
 description: >-
-  Understanding Key PMP Concepts with Real Life Eg.
-author: cotes
-date: 2025-01-19 20:55:00 +0800
-categories: [Project Management]
-tags: [pmp]
+  LLM Benchmarking
+author: tharif
+date: 2025-01-22 20:55:00 +0800
+categories: [AI/ML]
+tags: [ai, benchmarking]
 pin: false
 media_subpath: '/posts/20180809'
 ---
 
-20 Key PMP Concepts with Easy-to-Relate Examples
-(To Help You Pass on Your Next Attempt 🚀)
+Curated collection of 2,700 difficult questions across over 100 subjects, spanning everything from the sciences to the humanities. 
+The questions in this dataset are crafted to be at the cutting edge of human knowledge, ensuring that only the most capable AI models can tackle them.
 
-1️⃣ Development Life Cycles (Predictive vs. Iterative vs. Incremental vs. Agile)
-📌 Example:
+![image](https://github.com/user-attachments/assets/7d350e85-d4da-46c6-9122-f075552bbbe8)
 
-Predictive (Waterfall): Building a house 🏡 (all plans are finalized before construction).
-Iterative: Painting a picture 🎨 (you sketch, refine details, and improve over time).
-Incremental: Launching an app 📱 (start with basic features, add more in updates).
-Agile: Cooking 🍳 (taste, adjust seasoning, cook some more).
+DataSet - https://huggingface.co/datasets/cais/hle
 
-2️⃣ Work Breakdown Structure (WBS) – 5 Steps
-📌 Example:
-Think of planning a wedding 💍:
+Model Comparison Summary
+_As of Jan2025/EarlyFeb._
 
-Identify deliverables (venue, catering, dress, music).
-Organize WBS (group tasks: food, decoration, invitations).
-Break into smaller parts (food → appetizers, main course, desserts).
-Assign ID codes (1.1, 1.2, etc.).
-Verify if each section is fully detailed (Are all food items listed?).
+Leading AI models across various critical metrics including intelligence, output speed (tokens per second), latency (seconds), price, and context window.
 
-3️⃣ Earned Value Management (EVM) – Budget & Schedule Tracking
-📌 Example:
-You planned to paint 5 rooms in 5 days (1 room/day).
+1. Intelligence
+When it comes to intelligence, two models stand out: o3-mini and o1. These models are widely regarded as the highest quality available today. They are followed closely by DeepSeek R1 and o1-mini, which offer impressive performance but with slightly less sophistication in comparison to the leaders. Here’s how the rankings look for intelligence:
 
-EV (Earned Value): You finished 3 rooms (60% complete).
-PV (Planned Value): You should have completed 4 rooms (80%).
-SV (Schedule Variance) = EV - PV = 60 - 80 = -20 (Behind schedule!).
-CV (Cost Variance) = EV - AC (Actual Cost) → If spent more than planned, you're over budget.
+Top Models: o3-mini, o1
+Followed by: DeepSeek R1, o1-mini
+If you need a model with refined output quality and ability to understand complex inputs, o3-mini and o1 should be your top contenders.
 
-4️⃣ Agile Teams: Small, Dedicated, and Self-Managing
-📌 Example:
-A startup tech team of 5 people working in a garage 🛠️ versus a large corporate IT team with 50+ employees 🏢.
+2. Output Speed (Tokens/Second)
+Output speed is crucial when time is of the essence, especially in real-time applications. Models like DeepSeek R1 Distill Qwen 1.5B and Gemini 1.5 Flash-8B deliver blazing-fast speeds of 375 tokens per second and 276 tokens per second, respectively. These models are ideal for high-demand scenarios where speed is paramount. Next in line are models like Gemini 2.0 Flash-Lite (Preview) and Ministral 3B. Here’s how the models rank in terms of output speed:
 
-Agile = small, focused teams (3-9 people), working in short cycles (sprints).
+Fastest Models: DeepSeek R1 Distill Qwen 1.5B (375 t/s), Gemini 1.5 Flash-8B (276 t/s)
+Followed by: Gemini 2.0 Flash-Lite (Preview), Ministral 3B
+When considering output speed, DeepSeek R1 Distill Qwen 1.5B and Gemini 1.5 Flash-8B stand out for their exceptional performance.
 
-5️⃣ Agile Manifesto – Responding to Change over Following a Plan
-📌 Example:
-A chef 👨‍🍳 in a food truck adjusts the menu daily based on customer demand (Agile). A big restaurant 🍽️ with a fixed menu follows a Predictive model.
+3. Latency (Seconds)
+Latency plays a crucial role when the response time is critical. Models like Gemini 1.5 Flash (Sep) and Gemini 1.5 Pro (May) exhibit the lowest latency, clocking in at just 0.10 seconds and 0.11 seconds, respectively. These models are perfect for applications that require minimal delay, such as interactive chatbots or real-time decision-making systems. Next in line are Gemini 1.5 Pro (Sep) and Gemini 1.5 Flash (May), offering only slightly higher latency.
 
-6️⃣ Stakeholder Engagement – Power vs. Interest Grid
-📌 Example:
+Lowest Latency: Gemini 1.5 Flash (Sep) (0.10s), Gemini 1.5 Pro (May) (0.11s)
+Followed by: Gemini 1.5 Pro (Sep), Gemini 1.5 Flash (May)
+For ultra-low latency, the Gemini 1.5 Flash (Sep) and Gemini 1.5 Pro (May) models should be at the top of your list.
 
-CEO (High Power, High Interest) → Needs regular updates.
-Team Members (Low Power, High Interest) → Need daily communication.
-General Public (Low Power, Low Interest) → Minimal communication.
+4. Price ($ per Million Tokens)
+Pricing can make or break the viability of using an AI model, especially for large-scale implementations. The Llama 3.2 1B and Ministral 3B are among the most affordable models, priced at just $0.04 per million tokens. These models provide good value for developers or companies working on a budget. Close behind are DeepSeek R1 Distill Llama 8B and OpenChat 3.5, which offer competitive pricing as well.
 
-7️⃣ Motivational Theories – Expectancy Theory
-📌 Example:
-A salesperson 💼 works harder because they expect a bonus 💰 (effort → reward).
+Most Affordable Models: Llama 3.2 1B ($0.04), Ministral 3B ($0.04)
+Followed by: DeepSeek R1 Distill Llama 8B, OpenChat 3.5
+If cost is a primary concern, Llama 3.2 1B and Ministral 3B are solid, budget-friendly options.
 
-8️⃣ Risk Management – Avoid, Mitigate, Transfer, Accept
-📌 Example:
+5. Context Window
+The context window refers to the model's capacity to handle larger chunks of input data. Models with a larger context window are better equipped to handle complex inputs or provide more coherent responses. The MiniMax-Text-01 model leads the pack with a remarkable 4 million tokens context window, followed by Gemini 2.0 Pro Experimental at 2 million tokens. The Gemini 1.5 Pro (Sep) and Gemini 1.5 Pro (May) come in with a respectable 1 million tokens context window.
 
-Avoid: Cancel an outdoor event 🌧️ if rain is expected.
-Mitigate: Rent tents ☂️ to reduce risk of rain affecting the event.
-Transfer: Buy insurance 📜 to cover financial loss.
-Accept: Proceed anyway, knowing there’s a 20% chance of rain.
-
-9️⃣ Project Contracts – Fixed Price vs. Cost Plus vs. Time & Material
-📌 Example:
-
-Fixed Price: Buying a car 🚗 for a set price.
-Cost Plus: Renovating a house 🏡 where the contractor is reimbursed for materials + a fixed fee.
-Time & Material: Hiring a freelancer per hour ⏳.
-
-🔟 Variance at Completion (VAC) – Are You Under or Over Budget?
-📌 Example:
-You planned to spend ₹10,000 on a trip ✈️ but actual expenses show ₹8,000.
-
-VAC = BAC - EAC = ₹10,000 - ₹8,000 = ₹2,000 (Under Budget 🎉).
-
-1️⃣1️⃣ Scope Creep – Uncontrolled Scope Changes
-📌 Example:
-A client initially requests a website 🌐, but later keeps adding features (e-commerce, chatbot, analytics) without increasing budget.
-
-1️⃣2️⃣ Fast-Tracking vs. Crashing (Schedule Compression Techniques)
-📌 Example:
-
-Fast-Tracking: Start painting walls 🎨 before the floors are finished (parallel work).
-Crashing: Hire more painters 👨‍🎨 to finish quicker (but costs more).
-
-1️⃣3️⃣ Payback Period – When Do You Recover Your Investment?
-📌 Example:
-You invest ₹5,00,000 in a business 💼 and earn ₹1,00,000 per year.
-
-Payback period = ₹5,00,000 / ₹1,00,000 = 5 years.
-
-1️⃣4️⃣ Communication Channels Formula: n(n-1)/2
-📌 Example:
-In a 5-person team, communication channels = 5(4)/2 = 10. More people = more complexity!
-
-1️⃣5️⃣ Minimum Viable Product (MVP) – Start Small & Improve
-📌 Example:
-Tesla 🚗 launched early models with basic features and improved over time.
-
-1️⃣6️⃣ Cost Estimation – Analogous vs. Parametric vs. Bottom-Up
-📌 Example:
-
-Analogous: “This house costs ₹50 lakhs; a similar one should too.”
-Parametric: “Each square foot costs ₹5,000, so 1000 sq ft = ₹50 lakhs.”
-Bottom-Up: “Paint = ₹5,000, Labor = ₹30,000, Total = ₹35,000.”
-
-1️⃣7️⃣ Critical Path – Longest Path in a Project
-📌 Example:
-Building a house 🏡: If plumbing 🚰 is delayed, the entire project gets delayed.
-
-1️⃣8️⃣ Change Management – Use Formal Change Control Process
-📌 Example:
-If a government project needs extra funds, you must get approval 📝 before spending.
-
-1️⃣9️⃣ Monitor vs. Manage Communications
-📌 Example:
-
-Monitor = Tracking 📊 (Checking if emails are being read).
-Manage = Taking Action 🗣️ (Following up with unresponsive team members).
-
-2️⃣0️⃣ Salience Model – Stakeholder Prioritization
-📌 Example:
-
-Urgent & Powerful (Board Members) = Highest Priority 🚨.
-Not Urgent, Low Power (Public) = Least Priority.
+Largest Context Window: MiniMax-Text-01 (4m), Gemini 2.0 Pro Experimental (2m)
+Followed by: Gemini 1.5 Pro (Sep), Gemini 1.5 Pro (May)
