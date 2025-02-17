@@ -4,8 +4,8 @@ description: >-
   Understanding Key PMP Concepts with Real Life Eg.
 author: cotes
 date: 2025-01-19 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: [Project Management]
+tags: [pmp]
 pin: false
 media_subpath: '/posts/20180809'
 ---
