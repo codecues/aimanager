@@ -15,6 +15,10 @@ The questions in this dataset are crafted to be at the cutting edge of human kno
 
 ![image](https://github.com/user-attachments/assets/7d350e85-d4da-46c6-9122-f075552bbbe8)
 
+AI Iq Index 4/6/2025 :
+
+![Artificial Analysis Intelligence Index (6 Apr '25)](https://github.com/user-attachments/assets/8b1ea0bf-2571-4612-a187-4c13507d2a67)
+
 DataSet - https://huggingface.co/datasets/cais/hle
 
 Model Comparison Summary
