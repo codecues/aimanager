@@ -23,9 +23,14 @@ Screen shots from system :
 
 ![image](https://github.com/user-attachments/assets/b04eb5b5-9797-4496-953d-24907166af56)
 
+Modelling :
+
 ![image](https://github.com/user-attachments/assets/c425267f-928c-4f63-9ed3-754caf102fe4)
 
+**Register for Cloud at - https://getwren.ai/genbi
 
+Open Source version (Need to install Docker) at - https://docs.getwren.ai/oss/installation
+**
 
 
 
