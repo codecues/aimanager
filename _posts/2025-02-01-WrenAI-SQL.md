@@ -1,11 +1,11 @@
 ---
-title: AI & Agile
+title: Wren AI & Gen BI
 description: >-
-  Tools for Implementing Agile Practices
+  Onboard your Databases
 author: tharif
-date: 2025-01-30 20:55:00 +0800
+date: 2025-02-01 20:55:00 +0800
 categories: [AI/ML]
-tags: [ai, Agile, Jira, ClickUp]
+tags: [ai, Database]
 pin: false
 ---
 
@@ -14,6 +14,9 @@ Jira is the go-to tool for most Agile teams, especially for those following Scru
 However, Agile leaders—Scrum Masters, Team Leads, and Project Managers—can enhance their workflow with additional AI and non-AI tools. Let’s explore 2 inbuilt & cool options that go beyond Jira’s core features which are Atlassian Intelligence and Automation.
 
 Atlassian Intelligence: AI-Powered Jira Assistance.
+
+![image](https://github.com/user-attachments/assets/9c915d5b-b887-43a7-a147-180623be680c)
+
 
 Jira Cloud’s built-in Atlassian Intelligence leverages OpenAI technology to automate tasks, streamline workflows, and enhance productivity. Here’s how it helps:
 
