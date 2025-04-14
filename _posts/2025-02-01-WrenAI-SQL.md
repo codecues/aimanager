@@ -29,7 +29,7 @@ Modelling :
 
 **Register for Cloud at - https://getwren.ai/genbi**
 
-**Open Source version (Need to install Docker) at - https://docs.getwren.ai/oss/installation**
+**Open Source version (via Docker) at - https://docs.getwren.ai/oss/installation**
 
 
 
