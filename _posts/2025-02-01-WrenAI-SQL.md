@@ -27,10 +27,10 @@ Modelling :
 
 ![image](https://github.com/user-attachments/assets/c425267f-928c-4f63-9ed3-754caf102fe4)
 
-**Register for Cloud at - https://getwren.ai/genbi
+**Register for Cloud at - https://getwren.ai/genbi**
 
-Open Source version (Need to install Docker) at - https://docs.getwren.ai/oss/installation
-**
+**Open Source version (Need to install Docker) at - https://docs.getwren.ai/oss/installation**
+
 
 
 
