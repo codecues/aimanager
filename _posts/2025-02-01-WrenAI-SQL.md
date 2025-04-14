@@ -1,0 +1,60 @@
+---
+title: AI & Agile
+description: >-
+  Tools for Implementing Agile Practices
+author: tharif
+date: 2025-01-30 20:55:00 +0800
+categories: [AI/ML]
+tags: [ai, Agile, Jira, ClickUp]
+pin: false
+---
+
+Jira is the go-to tool for most Agile teams, especially for those following Scrum. 
+
+However, Agile leaders—Scrum Masters, Team Leads, and Project Managers—can enhance their workflow with additional AI and non-AI tools. Let’s explore 2 inbuilt & cool options that go beyond Jira’s core features which are Atlassian Intelligence and Automation.
+
+Atlassian Intelligence: AI-Powered Jira Assistance.
+
+Jira Cloud’s built-in Atlassian Intelligence leverages OpenAI technology to automate tasks, streamline workflows, and enhance productivity. Here’s how it helps:
+
+✅ Smart Issue Recommendations – Suggests related Jira tickets based on content.
+
+✅ AI-Powered Search – Understands natural language queries like, “Show all high-priority bugs assigned to me.”
+![jiraAI](https://github.com/user-attachments/assets/f9d06ebd-e351-4222-ac19-9ab586ac340c)
+
+✅ AI-Generated Summaries – Provides concise updates on issues, sprints, and backlog items.
+
+✅ Automated Ticket Creation – Converts meeting notes or Slack discussions into Jira tasks.
+
+✅ Smart Notifications – Filters important updates, reducing information overload.
+
+By integrating AI, teams can save time on manual issue tracking and focus on value-driven work.
+
+Automating Prioritization in Jira (No Additional Apps Required!)
+Jira’s built-in automation allows teams to prioritize backlog items without third-party plugins.
+
+**RICE Scoring in Jira (Reach, Impact, Confidence, Effort)
+**
+
+📌 Formula:
+
+RICE Score = (Reach × Impact × Confidence) / Effort
+
+🔧 How to Automate in Jira:
+
+1️⃣ Add custom fields: Reach, Impact, Confidence, Effort.
+
+2️⃣ Create an automation rule using Jira’s smart values:
+
+
+{{issue.Reach}} * {{issue.Impact}} * {{issue.Confidence}} / {{issue.Effort}}
+
+3️⃣ Automatically update the Priority field based on the score range.
+
+By leveraging Jira’s native automation, 
+teams can prioritize effectively without the need for additional apps.
+
+Beyond Jira: An Alternative for Non-Premium Users
+
+
+🔹 ClickUp (Powered by Brain AI) provides advanced automation, task prioritization, and AI-driven insights—offering more features than Jira's standard plan.
