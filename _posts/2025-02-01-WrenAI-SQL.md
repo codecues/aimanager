@@ -1,5 +1,5 @@
 ---
-title: Wren AI & Gen BI
+title: Wren AI for Gen BI
 description: >-
   Onboard your Databases
 author: tharif
