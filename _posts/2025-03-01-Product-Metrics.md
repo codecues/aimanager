@@ -56,15 +56,15 @@ Organizing metrics into categories helps bring clarity across teams. Here's how 
 
 > Strategic Metrics: North Star, NPS, CSAT — long-term direction and user satisfaction.
 
-Engagement Metrics: DAU/MAU, Retention, Session Time — your product’s stickiness.
+> Engagement Metrics: DAU/MAU, Retention, Session Time — your product’s stickiness.
 
-Revenue Metrics: CLV, CAC, ARPU — the business side of product.
+> Revenue Metrics: CLV, CAC, ARPU — the business side of product.
 
-Feature Metrics: Usage, Adoption, Feedback — what you’ve shipped and what’s working.
+> Feature Metrics: Usage, Adoption, Feedback — what you’ve shipped and what’s working.
 
-Development Metrics: Cycle Time, Bug Rate, Velocity — how quickly and reliably you build.
+> Development Metrics: Cycle Time, Bug Rate, Velocity — how quickly and reliably you build.
 
-Feedback Metrics: Support tickets, Feature Requests — the voice of the customer in raw form.
+> Feedback Metrics: Support tickets, Feature Requests — the voice of the customer in raw form.
 
 {: .prompt-tip }
 
