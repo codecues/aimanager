@@ -9,7 +9,7 @@ tags: [product]
 pin: false
 ---
 
-## The Design DNA
+## Still designing Manual ?
 
 
 1. **Empathy First**: Deep understanding of user context, needs, frustrations
