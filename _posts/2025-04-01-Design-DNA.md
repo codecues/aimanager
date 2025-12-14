@@ -22,6 +22,9 @@ pin: false
 
 **The Golden Rule**: If you need a manual to explain basic functionality, the design has failed.
 
+Explore design philosophies at -
+https://v0-design-product-systems.vercel.app/
+
 
 
 
