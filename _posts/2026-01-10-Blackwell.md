@@ -26,7 +26,7 @@ When the DeepSeek-R1 models showed that you could get high performance with fewe
 
 -> Rebranded the B300 from a "Training Chip" to a "Reasoning Platform." They argued that while training might get more efficient, "Reasoning" (AI thinking through a problem) requires more compute at the moment the user asks a question.
 
-The Pivot: They introduced NVIDIA Dynamo, a software framework bundled with the B300. It "disaggregates" the reasoning process—splitting the "thinking" and the "typing" phases of an AI across different GPUs to maximize speed.
+The Pivot: They introduced NVIDIA Dynamo, a software framework bundled with the B300. It "disaggregates" the reasoning process_splitting the "thinking" and the "typing" phases of an AI across different GPUs to maximize speed.
 
 The Result: They turned a threat (efficient models) into a feature (reasoning efficiency), claiming the B300 can boost reasoning tokens by 30x compared to older setups.
 
