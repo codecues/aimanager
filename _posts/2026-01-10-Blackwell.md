@@ -14,14 +14,14 @@ For a Product team, the Blackwell Ultra (B300) is more than just a spec upgrade 
 NVIDIA faced a unique challenge: how do you maintain dominance when competitors (and even your own customers) start claiming that "smaller, cheaper models" (like DeepSeek) might make massive GPU clusters unnecessary?
 
 
-1. The "Mid-Cycle Flip" (Annualization Strategy)
+A. The "Mid-Cycle Flip" (Annualization Strategy)
 Before Blackwell, NVIDIA released a major architecture every two years (Ampere in 2020, Hopper in 2022, Blackwell in 2024).
 
 The Story: Internal NVIDIA realized that the AI market was moving faster than silicon manufacturing could keep up. Instead of waiting for the 2026 "Rubin" architecture, they launched the B300 Ultra as a mid-cycle "kicker."
 
 -> They shifted from a "Tick-Tock" cycle to an annual release cadence. This prevented "procurement pauses," where customers stop buying because they are waiting for the next big thing. By releasing an "Ultra" version with 288GB of memory (a 50% jump over the B200), they gave customers a reason to keep spending mid-lifecycle.
 
-2. Solving the "DeepSeek Doubt" (The Pivot to Reasoning)
+B. Solving the "DeepSeek Doubt" (The Pivot to Reasoning)
 When the DeepSeek-R1 models showed that you could get high performance with fewer resources, it created a PR crisis for high-end hardware.
 
 -> Rebranded the B300 from a "Training Chip" to a "Reasoning Platform." They argued that while training might get more efficient, "Reasoning" (AI thinking through a problem) requires more compute at the moment the user asks a question.
@@ -30,7 +30,7 @@ The Pivot: They introduced NVIDIA Dynamo, a software framework bundled with the 
 
 The Result: They turned a threat (efficient models) into a feature (reasoning efficiency), claiming the B300 can boost reasoning tokens by 30x compared to older setups.
 
-3. "Mission Control": Reducing "Time-to-Value"
+C. "Mission Control": Reducing "Time-to-Value"
 A common nightmare is a customer buying a product but being unable to use it. Large clusters often took 3–6 months to set up.
 
 NVIDIA PMs realized that their biggest competitor wasn't AMD; it was complexity. If it takes 6 months to set up a cluster, that’s 6 months of lost revenue for the customer.
