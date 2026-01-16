@@ -1,4 +1,3 @@
-
 ---
 title: Blackwell Platform
 description: >-
