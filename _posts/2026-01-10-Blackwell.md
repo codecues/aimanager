@@ -33,7 +33,7 @@ The Result: They turned a threat (efficient models) into a feature (reasoning ef
 C. "Mission Control": Reducing "Time-to-Value"
 A common nightmare is a customer buying a product but being unable to use it. Large clusters often took 3–6 months to set up.
 
-NVIDIA PMs realized that their biggest competitor wasn't AMD; it was complexity. If it takes 6 months to set up a cluster, that’s 6 months of lost revenue for the customer.
+NVIDIA realized that their biggest competitor wasn't AMD; it was complexity. If it takes 6 months to set up a cluster, that’s 6 months of lost revenue for the customer.
 
 The Feature: They launched NVIDIA Mission Control. It’s a "single pane of glass" that automates the deployment of thousands of B300s.
 
